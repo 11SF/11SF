@@ -2,18 +2,17 @@
 
 ## Knowledge
 **Programing Language**
- - C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐
- - C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐
- - Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐⭐⭐
- - Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐
- - JavaScript&nbsp;&nbsp;⭐⭐⭐⭐
- - Dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐
+ - C
+ - C++
+ - Java
+ - Python
+ - JavaScript
+ - Dart
 
 **General**
  - Object-Oriented Programing **(Intermediate)**
  - UX/UI Design **(Basic)**
  - End to End Testing **(Basic)**
- - Brew Coffee ☕ **(Expert)**
  
 **Front End**
  - Vue.js **(Intermediate)**
@@ -22,6 +21,10 @@
 
 **Backend**
  - Node.js **(Basic)**
+
+**Hobby**
+ - Brew Coffee ☕ **(Expert)**
+ - Guitar 🎸**(Intermediate)**
 
 
 <p align="left">
