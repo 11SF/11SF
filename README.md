@@ -2,12 +2,12 @@
 
 ## Knowledge
 **Programing Language**
- - C
- - C++
- - Java
- - Python 
- - JavaScript
- - Dart
+ - C           ⭐⭐⭐⭐
+ - C++         ⭐⭐
+ - Java        ⭐⭐⭐⭐⭐⭐
+ - Python      ⭐⭐⭐
+ - JavaScript  ⭐⭐⭐⭐
+ - Dart        ⭐
 
 **General**
  - Object-Oriented Programing **(Intermediate)**
