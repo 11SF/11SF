@@ -32,7 +32,7 @@
 </p> 
 
 <p align="left">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook&theme=radical alt=rahuldkjain />
 </p> 
 
 
