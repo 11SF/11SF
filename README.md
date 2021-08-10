@@ -1,15 +1,25 @@
  ### Hello World 👋
 
 ## Knowledge
+**Programing Language**
+ - C
+ - C++
+ - Java
+ - Python 
+ - JavaScript
+ - Dart
+
 **General**
  - Object-Oriented Programing **(Intermediate)**
  - UX/UI Design **(Basic)**
- - End2End Testing **(Basic)**
+ - End to End Testing **(Basic)**
+ - Brew Coffee ☕ **(Expert)**
  
 **Front End**
  - Vue.js **(Intermediate)**
  - React.js **(Basic)**
- - 
+ - EJS **(Basic)**
+
 **Backend**
  - Node.js **(Basic)**
 
