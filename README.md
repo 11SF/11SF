@@ -24,7 +24,7 @@
 
 **Hobby**
  - Brew Coffee ☕ **(Expert)**
- - Guitar 🎸**(Intermediate)**
+ - Guitar 🎸 **(Intermediate)**
 
 
 <p align="left">
