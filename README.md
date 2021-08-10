@@ -2,7 +2,7 @@
 
 ## Knowledge
 **Programing Language**
- - C           ⭐⭐⭐⭐
+ - C\t\t\t\t\t\t⭐⭐⭐⭐
  - C++         ⭐⭐
  - Java        ⭐⭐⭐⭐⭐⭐
  - Python      ⭐⭐⭐
