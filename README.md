@@ -1,4 +1,17 @@
- ### !!!Hello World!!!! 👋
+ ### Hello World 👋
+
+## Knowledge
+**General**
+ - Object-Oriented Programing **(Intermediate)**
+ - UX/UI Design **(Basic)**
+ - End2End Testing **(Basic)**
+ 
+**Front End**
+ - Vue.js **(Intermediate)**
+ - React.js **(Basic)**
+ - 
+**Backend**
+ - Node.js **(Basic)**
 
 
 <p align="left">
