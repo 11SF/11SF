@@ -5,7 +5,10 @@
 <img src=https://github-readme-stats.vercel.app/api?username=11SF&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
 </p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter Notebook alt=rahuldkjain />
+</p> 
+
 
 <!--
 **11SF/11SF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
