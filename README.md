@@ -28,7 +28,7 @@
 
 
 <p align="left">
-<img src=https://github-readme-stats.vercel.app/api?username=11SF&show_icons=true&include_all_commits=true&count_private=true&theme=dracula alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api?username=11SF&show_icons=true&include_all_commits=true&count_private=true&theme=cobalt alt=rahuldkjain />
 </p> 
 
 <p align="left">
