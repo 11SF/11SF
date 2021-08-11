@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=11SF&theme=radical" alt=rahuldkjain />
 </p> 
 
-
+[![gitihm stats](https://github-readme-stats.vercel.app/api/wakatime?username=11SF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **11SF/11SF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
