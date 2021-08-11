@@ -27,11 +27,11 @@
 
 
 <p align="left">
-<img src=https://github-readme-stats.vercel.app/api?username=11SF&show_icons=true&include_all_commits=true&count_private=true&theme=radical&langs_count=10 alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api?username=11SF&show_icons=true&include_all_commits=true&count_private=true&theme=radical alt=rahuldkjain />
 </p> 
 
 <p align="left">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook&theme=radical alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook&theme=radical&langs_count=10 alt=rahuldkjain />
 </p> 
 
 [![11SF wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=11SF&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
