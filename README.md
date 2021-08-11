@@ -35,7 +35,7 @@
 </p> 
 
 <p align="left">
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=11SF&theme=radical alt=rahuldkjain />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=11SF&theme=radical" alt=rahuldkjain />
 </p> 
 
 
