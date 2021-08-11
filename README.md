@@ -7,7 +7,6 @@
  - Java
  - Python
  - JavaScript
- - Dart
 
 **General**
  - Object-Oriented Programing **(Intermediate)**
