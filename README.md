@@ -30,7 +30,7 @@
 <img src=https://github-readme-stats.vercel.app/api?username=11SF&show_icons=true&include_all_commits=true&count_private=true&theme=radical alt=rahuldkjain />
 </p> 
 
-<p align="left">
+<p align="center">
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook&theme=radical&langs_count=10 alt=rahuldkjain />
 </p> 
 
