@@ -7,6 +7,7 @@
  - Java
  - Python
  - JavaScript
+ - Dart
 
 **General**
  - Object-Oriented Programing **(Intermediate)**
@@ -20,6 +21,10 @@
 
 **Backend**
  - Node.js **(Basic)**
+
+**Mobile Application**
+- Fluuter **(Basic)**
+
 
 **Hobby**
  - Brew Coffee ☕ **(Expert)**
