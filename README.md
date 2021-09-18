@@ -23,7 +23,7 @@
  - Node.js **(Basic)**
 
 **Mobile Application**
-- Fluuter **(Basic)**
+- Flutter **(Basic)**
 
 
 **Hobby**
