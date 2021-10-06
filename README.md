@@ -36,12 +36,15 @@
 </p> 
 
 <p align="center">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook&theme=radical&langs_count=10 alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=11SF&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
 </p> 
 
 <p align="center">
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=11SF&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook&theme=radical&langs_count=10 alt=rahuldkjain />
 </p> 
+
+
+<!-- <a href="https://codetrace.com/users/11SF"><img src="https://codetrace.com/widget/11SF" width="220" height="50" /></a> -->
 
 <!--
 **11SF/11SF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
