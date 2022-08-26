@@ -9,17 +9,10 @@
 
 <br />
 <br />
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=11SF&show_icons=true&include_all_commits=true&count_private=true&theme=radical alt=rahuldkjain />
-</p> 
-
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=11SF&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
-</p> 
-
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&layout=compact&hide=Jupyter%20Notebook&theme=radical&langs_count=10 alt=rahuldkjain />
-</p> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=11SF&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=11SF&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 <!-- <a href="https://codetrace.com/users/11SF"><img src="https://codetrace.com/widget/11SF" width="220" height="50" /></a> -->
