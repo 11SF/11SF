@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11SF&label=Profile%20views&color=blueviolet&style=flat" alt="11SF" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11SF&theme=onestar&margin-w=15&margin-h=15&no-frame=true" alt="11SF" /></a> </p>
+
 
 ## Knowledge
 **Programing Language**
