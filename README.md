@@ -27,7 +27,10 @@
 </p>
 
 **Backend**
- - Node.js **(Basic)**
+<p align="left">
+    <img src="https://cdn.labstack.com/images/echo-logo.svg" alt="echo" width="60" height="60">
+    <img src="https://11sf-web.netlify.app/static/media/expressjs-ar21.493a0dd0.svg" alt="express" width="60" height="60">
+</p>
 
 **Mobile Application**
 - Flutter **(Basic)**
