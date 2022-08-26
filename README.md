@@ -6,12 +6,14 @@
 
 ## Knowledge
 **Programing Language**
- - C
- - C++
- - Java
- - Python
- - JavaScript
- - Dart
+<p align="left">
+    <img src="https://11sf-web.netlify.app/static/media/c-program.22ea43c1.svg" alt="c" width="40" height="40">
+    <img src="https://11sf-web.netlify.app/static/media/icons8-java.5386b56c.svg" alt="java" width="40" height="40">
+    <img src="https://11sf-web.netlify.app/static/media/icons8-python.026a6268.svg" alt="python" width="40" height="40">
+    <img src="https://11sf-web.netlify.app/static/media/icons8-javascript.081325c6.svg" alt="js" width="40" height="40">
+    <img src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" alt="golang" width="40" height="40">
+    <img src="https://11sf-web.netlify.app/static/media/icons8-dart.d909531a.svg" alt="dart" width="40" height="40">
+</p>
 
 **General**
  - Object-Oriented Programing **(Intermediate)**
