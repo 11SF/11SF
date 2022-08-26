@@ -21,9 +21,10 @@
  - End to End Testing **(Basic)**
  
 **Front End**
- - Vue.js **(Intermediate)**
- - React.js **(Basic)**
- - EJS **(Basic)**
+<p align="left">
+    <img src="https://11sf-web.netlify.app/static/media/vue-js.9f537ef8.svg" alt="vue" width="60" height="60">
+    <img src="https://11sf-web.netlify.app/static/media/react-js.4ee8d000.svg" alt="react" width="60" height="60">
+</p>
 
 **Backend**
  - Node.js **(Basic)**
