@@ -10,10 +10,11 @@
 <br />
 <br />
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=11SF&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=11SF&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+<p align="left">
+<img src=https://github-readme-stats.vercel.app/api?username=11SF&theme=radical&hide_border=true&include_all_commits=true&count_private=true alt=rahuldkjain />
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=11SF&theme=radical&hide_border=true alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=11SF&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact alt=rahuldkjain />
+</p> 
 
 <!-- <a href="https://codetrace.com/users/11SF"><img src="https://codetrace.com/widget/11SF" width="220" height="50" /></a> -->
 
