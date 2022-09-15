@@ -17,7 +17,7 @@
 <img src=https://github-readme-streak-stats.herokuapp.com/?user=11SF&theme=radical&hide_border=true alt=rahuldkjain />
 </p> 
 <p align="left">
-<img src=https://github-readme-stats.vercel.app/api/wakatime?username=11SF&layout=compact&hide=Other&theme=radical alt=rahuldkjain />
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=11SF&layout=compact&hide=Other&theme=radicall&hide_border=true alt=rahuldkjain />
 </p> 
 
 <!-- <a href="https://codetrace.com/users/11SF"><img src="https://codetrace.com/widget/11SF" width="220" height="50" /></a> -->
